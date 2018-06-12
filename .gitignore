@@ -105,5 +105,6 @@ venv.bak/
 
 data/TRN
 data/trn.csv
+data/trn_full.csv
 ex1.ipynb
 
