@@ -107,4 +107,6 @@ data/TRN
 data/trn.csv
 data/trn_full.csv
 ex1.ipynb
-
+data/teste_total.csv
+data/val_total.csv
+data/treino_total.csv
