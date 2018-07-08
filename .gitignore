@@ -107,4 +107,8 @@ data/TRN
 data/trn.csv
 data/trn_full.csv
 ex1.ipynb
+ex3.ipynb
+data/*.csv
+*.csv
+ex/
 
