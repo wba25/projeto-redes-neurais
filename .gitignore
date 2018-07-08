@@ -107,8 +107,14 @@ data/TRN
 data/trn.csv
 data/trn_full.csv
 ex1.ipynb
+<<<<<<< HEAD
 ex3.ipynb
 data/*.csv
 *.csv
 ex/
 
+=======
+data/teste_total.csv
+data/val_total.csv
+data/treino_total.csv
+>>>>>>> 576d0d37af36e0fe78d61af84cc74a0792230162
