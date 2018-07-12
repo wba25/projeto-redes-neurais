@@ -1,0 +1,19 @@
+Random Florest
+
+     0       1
+0   22852 	10673
+1 	14398 	19126
+
+201147 instancias treinadas
+67049 isntancias testadas
+
+Tempo de execução: 8 minutos
+
+Accuracy score: 0.626
+Recall score: 0.571
+Precision score: 0.642
+f1 score: 0.604
+Mean precison score: 0.581
+KS: 0.5
+Out-of-bag score estimate: 0.619
+Curva ROC area = 0.67

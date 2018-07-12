@@ -1,0 +1,18 @@
+SVM (kernel rbf)
+gamma=0.1000000000000001, C=100.0
+
+     0       1
+0   2953 	2047
+1 	2123 	2877
+
+40000 instancias treinadas
+
+Tempo de execução: 5 horas
+
+Accuracy score: 0.583
+Recall score: 0.575
+Precision score: 0.584
+f1 score: 0.58
+Mean precison score: 0.548
+KS: 0.5
+Curva ROC area = 0.61
