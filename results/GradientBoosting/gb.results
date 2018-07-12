@@ -1,0 +1,19 @@
+﻿Gradient Boosting
+
+   
+   0       1
+0 23253  10272
+1 12995  20529
+
+201147 instancias treinadas
+67049 instancias testadas
+
+Tempo de execução: 5 minutos
+
+Accuracy score: 0.653
+Recall score: 0.612
+Precision score: 0.667
+f1 score: 0.638
+Mean precison score: 0.602
+KS: 0.5
+Curva ROC area = 0.71
