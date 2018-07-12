@@ -1,0 +1,15 @@
+﻿MLP
+     0          1
+0   3401	1599
+1   2165	2835
+
+40000 instancias treinadas
+
+Tempo de execução: 8 minutos
+
+Accuracy score: 0.624
+Recall score: 0.567
+Precision score: 0.639
+f1 score: 0.601
+KS: 0.5
+Curva ROC area = 0.67
