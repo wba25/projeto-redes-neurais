@@ -1,8 +1,9 @@
-Random Florest
+﻿Random Florest
+n_estimators = 100
 
-     0       1
+     0          1
 0   22852 	10673
-1 	14398 	19126
+1   14398 	19126
 
 201147 instancias treinadas
 67049 isntancias testadas
